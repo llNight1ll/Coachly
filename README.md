@@ -75,4 +75,22 @@ React Native (Expo)
 
 
 
+## 🖼️ Images
+
+<img width="1084" height="2412" alt="image" src="https://github.com/user-attachments/assets/231b0471-9e3b-4318-a2f8-9262fb01a14b" />
+
+<img width="1084" height="2412" alt="image" src="https://github.com/user-attachments/assets/674e3347-2c57-48d3-a19d-df5c95092698" />
+
+<img width="1084" height="2412" alt="image" src="https://github.com/user-attachments/assets/324ed763-59f1-4920-891f-e99b6b223b52" />
+
+<img width="1084" height="2412" alt="image" src="https://github.com/user-attachments/assets/eddfbccb-f17f-4e97-ad50-d1c830e942e8" />
+
+<img width="1084" height="2412" alt="image" src="https://github.com/user-attachments/assets/6c6730c4-3a63-4296-9818-f4cc102a2fee" />
+
+<img width="1084" height="2412" alt="image" src="https://github.com/user-attachments/assets/9b99912a-d87b-4633-b8e2-7d8923439581" />
+
+
+
+
+
 
